@@ -1,4 +1,4 @@
-# Desafio Técnico – Cadastro de Funcionários
+Cadastro de Funcionários
 
 Este projeto foi desenvolvido como parte do desafio técnico para vaga de Desenvolvedor PHP com Laravel e Alpine.js.
 
@@ -69,11 +69,3 @@ Sistema simples de cadastro de funcionários, permitindo:
 - Uso de migrations e seeders para facilitar testes e setup
 - Interatividade na listagem feita com Alpine.js, sem dependências pesadas
 - Estilização rápida com TailwindCSS via CDN
-
-## Observações
-- O projeto está pronto para rodar em qualquer ambiente com PHP 8.1+ e MySQL.
-- Para dúvidas sobre o desafio, contate: julio.cesar@cybersolutions.com.br
-
----
-
-Desenvolvido por Gabriella Freitas para o processo seletivo Cyber Solutions.
