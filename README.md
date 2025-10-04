@@ -1,7 +1,5 @@
 Cadastro de Funcionários
 
-Este projeto foi desenvolvido como parte do desafio técnico para vaga de Desenvolvedor PHP com Laravel e Alpine.js.
-
 ## Descrição
 
 Sistema simples de cadastro de funcionários, permitindo:
